@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Ytb
+Comment=Play Youtube Movies
+Keywords=Video;Movie;Film;Clip;Series;Player;DVD;TV;Disc;
+eywords[en_GB]=Video;Movie;Film;Clip;Series;Player;DVD;TV;Disc;
+Keywords[zh_CN]=Video;Movie;Film;Clip;Series;Player;DVD;TV;Disc;视频;电影;影片;剪辑;系列节目;播放器;DVD;电视;唱片;
+Exec=ytb.py %U
+Icon=totem
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;AudioVideo;Player;Video;
+MimeType=x-scheme-handler/ytb;
+Actions=Play;Next;Previous;Mute;Fullscreen;
+X-Ubuntu-Gettext-Domain=totem
