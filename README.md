@@ -13,4 +13,6 @@ Ubuntu环境设置
 
 Windows环境设置
 ----------------
-
+1. 将windows目录中的ytb.py复制到python3\Scripts目录中
+2. 将windows目录中的ytb.reg导入到注册表中
+2. 将mpv和you-get的路径加入到PATH变量
