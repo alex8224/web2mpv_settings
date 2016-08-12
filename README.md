@@ -9,7 +9,7 @@ Ubuntu环境设置
 1. 将ubuntu目录中gnome-ytb.desktop复制到 ~/.local/share/applications/
 2. 将ubuntu目录中的ytb.py 复制到 /usr/local/bin
 3. sudo update-desktop-database
-4. 加了bilibili得的弹幕
+4. 加了bilibili得的弹幕,需要 https://github.com/m13253/danmaku2ass/danmaku2ass.py 放到 PATH 中
 
 
 Windows环境设置
