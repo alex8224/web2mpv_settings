@@ -3,6 +3,10 @@
 
 **必须先安装好 mpv 和 you-get**
 
+鸣谢
+=====
+1. https://github.com/soimort/you-get
+2. https://github.com/m13253/danmaku2ass
 
 Ubuntu环境设置
 --------------
