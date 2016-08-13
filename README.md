@@ -21,4 +21,4 @@ Windows环境设置
 1. 将windows目录中的ytb.py复制到python3\Scripts目录中
 2. 将windows目录中的ytb.reg导入到注册表中
 2. 将mpv和you-get的路径加入到PATH变量
-3. 加了bilibili得的弹幕,需要 https://github.com/m13253/danmaku2ass/danmaku2ass.py 放到 %PYTHOPATH%\Scripts\ 中
+3. 加了bilibili得的弹幕,需要 https://github.com/m13253/danmaku2ass/danmaku2ass.py 放到 %PYTHONPATH%\Scripts\ 中
