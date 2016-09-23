@@ -1,3 +1,8 @@
+依赖
+=====
+1. brew install mpv
+2. brew instal you-get
+
 Mac OSX EI Captain 设置方法
 ===================
 
